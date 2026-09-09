@@ -1,6 +1,6 @@
 <h1 align="center">Selam, Ben Resul! 👋</h1>
 
-<h3 align="center">Türkiye'den tutkulu bir Veri Analisti</h3>
+<h3 align="center">Türkiye'den tutkulu bir Veri Bilimci</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=resul-uyanik&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="resul-uyanik" />
